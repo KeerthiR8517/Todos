@@ -16,10 +16,10 @@ o Update todo item information
 o Delete a todo item
 # Technical Requirements:
 Used React.js for building the frontend application.<br>
-->Used React Router for navigation.<br>
--> Utilize state management libraries like Redux.<br>
--> Use CSS techniques<br>
--> Ensure responsiveness for different screen sizes.<br>
+-> Used React Router for navigation.<br>
+-> Utilized state management libraries like Redux.<br>
+-> Used CSS techniques<br>
+-> Responsiveness for different screen sizes.<br>
 # Working
 ![Screenshot 2024-04-30 140915](https://github.com/KeerthiR8517/Todos/assets/134034670/14e2ae27-81e8-4ef9-ac54-29a116f42ee2)
 ![Screenshot 2024-04-30 140821](https://github.com/KeerthiR8517/Todos/assets/134034670/439d8340-785d-4705-8350-86fd922c25ea)
